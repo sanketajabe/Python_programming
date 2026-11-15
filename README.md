@@ -1,2 +1,1 @@
-# Python_programming
-# Beginner and Expert Python Code
+Basics of data types, variables,Type casting.
